@@ -1,4 +1,4 @@
-# *Repositorio de Python Básico**
+# *Repositorio de Python Básico*
 
 Este repositorio contiene ejemplos y proyectos básicos escritos en Python. Está diseñado para ayudar a aquellos que están aprendiendo el lenguaje a familiarizarse con las características básicas y a desarrollar habilidades en programación.
 Contenido
